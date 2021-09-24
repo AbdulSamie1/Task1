@@ -1,0 +1,322 @@
+Ammount 7000 deposited on: Thu Sep 23 02:18:17 PDT 2021
+7000 amount deposited at Thu Sep 23 02:50:31 PDT 2021
+Total Amount is: 14000 at the time is Thu Sep 23 02:50:31 PDT 2021
+7000 amount deposited at Thu Sep 23 02:51:50 PDT 2021
+Total Amount is: 14000 at the time is Thu Sep 23 02:51:50 PDT 2021
+7000 amount deposited at Thu Sep 23 02:52:15 PDT 2021
+Total Amount is: 21000 at the time is Thu Sep 23 02:52:15 PDT 2021
+7000 amount deposited at Thu Sep 23 02:52:33 PDT 2021
+Total Amount is: 28000 at the time is Thu Sep 23 02:52:33 PDT 2021
+7000 amount deposited at Thu Sep 23 02:54:34 PDT 2021
+Total Amount is: 35000 at the time is Thu Sep 23 02:54:34 PDT 2021
+7000 amount deposited at Thu Sep 23 02:55:19 PDT 2021
+Total Amount is: 42000 at the time is Thu Sep 23 02:55:19 PDT 2021
+7000 amount deposited at Thu Sep 23 02:55:48 PDT 2021
+Total Amount is: 49000 at the time is Thu Sep 23 02:55:48 PDT 2021
+7000 amount deposited at Thu Sep 23 02:56:01 PDT 2021
+Tax on this transaction was 10 atThu Sep 23 02:56:01 PDT 2021
+Total Amount is: 55990 at the time is Thu Sep 23 02:56:01 PDT 2021
+7000 amount deposited at Thu Sep 23 02:57:50 PDT 2021
+Tax on this transaction was 10 atThu Sep 23 02:57:50 PDT 2021
+Total Amount is: 69970 at the time is Thu Sep 23 02:57:50 PDT 2021
+90000 amount deposited at Thu Sep 23 03:34:26 PDT 2021
+Tax on this transaction was 10 atThu Sep 23 03:34:26 PDT 2021
+Total Amount is: 159960 at the time is Thu Sep 23 03:34:26 PDT 2021
+8000 amount transformed from 797550 to your account at Thu Sep 23 05:00:41 PDT 2021
+Total Amount is: 167960 at the time is Thu Sep 23 05:00:41 PDT 2021
+2000 amount transfered to 797550 at Thu Sep 23 05:05:27 PDT 2021
+Total Amount is: 157960 at the time is Thu Sep 23 05:05:27 PDT 2021
+6000 amount transformed from 797550 to your account at Thu Sep 23 05:06:51 PDT 2021
+Total Amount is: 163960 at the time is Thu Sep 23 05:06:51 PDT 2021
+656 amount transfered to 79550 at Thu Sep 23 05:08:07 PDT 2021
+Total Amount is: 157304 at the time is Thu Sep 23 05:08:07 PDT 2021
+2000 amount transformed from 797550 to your account at Thu Sep 23 05:08:40 PDT 2021
+Total Amount is: 159304 at the time is Thu Sep 23 05:08:40 PDT 2021
+0 amount deposited at Fri Sep 24 14:07:40 PKT 2021
+Tax on deposit was 10 atFri Sep 24 14:07:40 PKT 2021
+Total Amount is: 159950 at the time is Fri Sep 24 14:07:40 PKT 2021
+0 amount deposited at Fri Sep 24 14:08:01 PKT 2021
+Tax on deposit was 10 atFri Sep 24 14:08:01 PKT 2021
+Total Amount is: 159940 at the time is Fri Sep 24 14:08:01 PKT 2021
+0 amount deposited at Fri Sep 24 15:46:39 PKT 2021
+Tax on deposit was 10 atFri Sep 24 15:46:39 PKT 2021
+Total Amount is: 159930 at the time is Fri Sep 24 15:46:39 PKT 2021
+0 amount deposited at Fri Sep 24 15:46:54 PKT 2021
+Tax on deposit was 10 atFri Sep 24 15:46:54 PKT 2021
+Total Amount is: 159920 at the time is Fri Sep 24 15:46:54 PKT 2021
+0 amount deposited at Fri Sep 24 15:51:30 PKT 2021
+Tax on deposit was 10 atFri Sep 24 15:51:30 PKT 2021
+Total Amount is: 159910 at the time is Fri Sep 24 15:51:30 PKT 2021
+0 amount withdrawn at Fri Sep 24 15:51:33 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 15:51:33 PKT 2021
+Total Amount is: 159900 at the time is Fri Sep 24 15:51:33 PKT 2021
+0 amount deposited at Fri Sep 24 16:01:16 PKT 2021
+Tax on deposit was 10 atFri Sep 24 16:01:16 PKT 2021
+Total Amount is: 159950 at the time is Fri Sep 24 16:01:16 PKT 2021
+0 amount deposited at Fri Sep 24 16:02:51 PKT 2021
+Tax on deposit was 10 atFri Sep 24 16:02:51 PKT 2021
+Total Amount is: 159940 at the time is Fri Sep 24 16:02:51 PKT 2021
+0 amount withdrawn at Fri Sep 24 16:03:04 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 16:03:04 PKT 2021
+Total Amount is: 159930 at the time is Fri Sep 24 16:03:04 PKT 2021
+0 amount deposited at Fri Sep 24 16:03:46 PKT 2021
+Tax on deposit was 10 atFri Sep 24 16:03:46 PKT 2021
+Total Amount is: 159920 at the time is Fri Sep 24 16:03:46 PKT 2021
+0 amount deposited at Fri Sep 24 16:04:23 PKT 2021
+Tax on deposit was 10 atFri Sep 24 16:04:23 PKT 2021
+Total Amount is: 159910 at the time is Fri Sep 24 16:04:23 PKT 2021
+0 amount deposited at Fri Sep 24 16:04:51 PKT 2021
+Tax on deposit was 10 atFri Sep 24 16:04:51 PKT 2021
+Total Amount is: 159900 at the time is Fri Sep 24 16:04:51 PKT 2021
+0 amount withdrawn at Fri Sep 24 16:04:56 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 16:04:56 PKT 2021
+Total Amount is: 159890 at the time is Fri Sep 24 16:04:56 PKT 2021
+0 amount deposited at Fri Sep 24 16:06:00 PKT 2021
+Tax on deposit was 10 atFri Sep 24 16:06:00 PKT 2021
+Total Amount is: 159880 at the time is Fri Sep 24 16:06:00 PKT 2021
+0 amount withdrawn at Fri Sep 24 16:06:03 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 16:06:03 PKT 2021
+Total Amount is: 159870 at the time is Fri Sep 24 16:06:03 PKT 2021
+0 amount deposited at Fri Sep 24 19:46:07 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:46:07 PKT 2021
+Total Amount is: 159860 at the time is Fri Sep 24 19:46:07 PKT 2021
+0 amount withdrawn at Fri Sep 24 19:46:17 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 19:46:17 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:46:17 PKT 2021
+0 amount deposited at Fri Sep 24 19:51:42 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:51:42 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:51:42 PKT 2021
+0 amount withdrawn at Fri Sep 24 19:51:46 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 19:51:46 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:51:46 PKT 2021
+0 amount deposited at Fri Sep 24 19:52:44 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:52:44 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:52:44 PKT 2021
+0 amount deposited at Fri Sep 24 19:54:00 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:54:00 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:54:00 PKT 2021
+0 amount withdrawn at Fri Sep 24 19:54:02 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 19:54:02 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:54:02 PKT 2021
+0 amount deposited at Fri Sep 24 19:54:22 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:54:22 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:54:22 PKT 2021
+0 amount deposited at Fri Sep 24 19:54:34 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:54:34 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:54:34 PKT 2021
+0 amount withdrawn at Fri Sep 24 19:54:42 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 19:54:42 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:54:42 PKT 2021
+0 amount deposited at Fri Sep 24 19:54:57 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:54:57 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:54:57 PKT 2021
+0 amount deposited at Fri Sep 24 19:55:15 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:55:15 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:55:15 PKT 2021
+0 amount withdrawn at Fri Sep 24 19:55:18 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 19:55:18 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:55:18 PKT 2021
+0 amount deposited at Fri Sep 24 19:59:27 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:59:27 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:59:27 PKT 2021
+0 amount withdrawn at Fri Sep 24 19:59:31 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 19:59:31 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:59:31 PKT 2021
+0 amount deposited at Fri Sep 24 19:59:46 PKT 2021
+Tax on deposit was 10 atFri Sep 24 19:59:46 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:59:46 PKT 2021
+0 amount withdrawn at Fri Sep 24 19:59:49 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 19:59:49 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 19:59:49 PKT 2021
+0 amount deposited at Fri Sep 24 20:00:12 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:00:12 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:00:12 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:00:13 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:00:13 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:00:13 PKT 2021
+0 amount deposited at Fri Sep 24 20:00:25 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:00:25 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:00:25 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:00:26 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:00:26 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:00:26 PKT 2021
+0 amount deposited at Fri Sep 24 20:02:51 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:02:51 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:02:51 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:02:52 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:02:52 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:02:52 PKT 2021
+0 amount deposited at Fri Sep 24 20:03:06 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:03:06 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:03:06 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:03:08 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:03:08 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:03:08 PKT 2021
+0 amount deposited at Fri Sep 24 20:06:22 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:06:22 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:06:22 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:06:24 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:06:24 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:06:24 PKT 2021
+0 amount deposited at Fri Sep 24 20:14:34 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:14:34 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:14:34 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:14:36 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:14:36 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:14:36 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:14:40 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:14:40 PKT 2021
+0 amount deposited at Fri Sep 24 20:14:51 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:14:51 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:14:51 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:14:52 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:14:52 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:14:52 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:14:55 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:14:55 PKT 2021
+0 amount deposited at Fri Sep 24 20:35:14 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:35:14 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:14 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:35:15 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:35:15 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:15 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:35:18 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:18 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:35:20 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:20 PKT 2021
+0 amount deposited at Fri Sep 24 20:35:37 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:35:37 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:37 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:35:38 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:35:38 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:38 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:35:42 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:42 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:35:42 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:35:42 PKT 2021
+0 amount deposited at Fri Sep 24 20:38:25 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:38:25 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:38:25 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:38:28 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:38:28 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:38:28 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:38:31 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:38:31 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:38:32 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:38:32 PKT 2021
+0 amount deposited at Fri Sep 24 20:44:44 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:44:44 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:44:44 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:44:45 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:44:45 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:44:45 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:44:50 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:44:50 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:44:52 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:44:52 PKT 2021
+0 amount deposited at Fri Sep 24 20:45:00 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:45:00 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:45:00 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:45:01 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:45:01 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:45:01 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:45:03 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:45:03 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:45:04 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:45:04 PKT 2021
+0 amount deposited at Fri Sep 24 20:47:28 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:47:28 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:47:28 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:47:29 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:47:29 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:47:29 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:47:32 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:47:32 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:47:33 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:47:33 PKT 2021
+0 amount deposited at Fri Sep 24 20:49:19 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:49:19 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:19 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:49:21 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:49:21 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:21 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:49:23 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:23 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:49:23 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:23 PKT 2021
+0 amount deposited at Fri Sep 24 20:49:47 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:49:47 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:47 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:49:49 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:49:49 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:49 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:49:51 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:51 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:49:51 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:49:51 PKT 2021
+0 amount deposited at Fri Sep 24 20:50:07 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:50:07 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:50:07 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:50:08 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:50:08 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:50:08 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:50:12 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:50:12 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:50:12 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:50:12 PKT 2021
+0 amount deposited at Fri Sep 24 20:53:13 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:53:13 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:53:13 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:53:15 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:53:15 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:53:15 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:53:18 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:53:18 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:53:19 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:53:19 PKT 2021
+0 amount deposited at Fri Sep 24 20:59:16 PKT 2021
+Tax on deposit was 10 atFri Sep 24 20:59:16 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:59:16 PKT 2021
+0 amount withdrawn at Fri Sep 24 20:59:19 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 20:59:19 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:59:19 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 20:59:22 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:59:22 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 20:59:25 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 20:59:25 PKT 2021
+0 amount deposited at Fri Sep 24 21:01:36 PKT 2021
+Tax on deposit was 10 atFri Sep 24 21:01:36 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:01:36 PKT 2021
+0 amount withdrawn at Fri Sep 24 21:01:38 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 21:01:38 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:01:38 PKT 2021
+0 amount deposited at Fri Sep 24 21:02:06 PKT 2021
+Tax on deposit was 10 atFri Sep 24 21:02:06 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:02:06 PKT 2021
+0 amount withdrawn at Fri Sep 24 21:02:07 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 21:02:07 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:02:07 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 21:02:12 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:02:12 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 21:02:13 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:02:13 PKT 2021
+0 amount deposited at Fri Sep 24 21:04:02 PKT 2021
+Tax on deposit was 10 atFri Sep 24 21:04:02 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:04:02 PKT 2021
+0 amount withdrawn at Fri Sep 24 21:04:03 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 21:04:03 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:04:03 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 21:04:10 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:04:10 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 21:04:11 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:04:11 PKT 2021
+0 amount deposited at Fri Sep 24 21:05:02 PKT 2021
+Tax on deposit was 10 atFri Sep 24 21:05:02 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:05:02 PKT 2021
+0 amount withdrawn at Fri Sep 24 21:05:07 PKT 2021
+Tax on withdraw was 10 atFri Sep 24 21:05:07 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:05:07 PKT 2021
+0 amount transformed from 797550 to your account at Fri Sep 24 21:05:16 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:05:16 PKT 2021
+0 amount transfered to 797550 at Fri Sep 24 21:05:18 PKT 2021
+Total Amount is: 159850 at the time is Fri Sep 24 21:05:18 PKT 2021

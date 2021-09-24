@@ -1,0 +1,28 @@
+The amount on Thu Sep 23 05:19:56 PDT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:38:32 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:44:52 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:45:04 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:47:33 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:49:23 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:49:51 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:50:12 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:53:19 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:59:25 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 20:59:58 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 21:02:13 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 21:04:11 PKT 2021 is: 26000
+The amount of zakat is: 650.0
+The amount on Fri Sep 24 21:05:18 PKT 2021 is: 26000
+The amount of zakat is: 650.0
